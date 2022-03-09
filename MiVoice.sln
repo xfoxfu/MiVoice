@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiVoice.Recognition", "MiVoice.Recognition\MiVoice.Recognition.csproj", "{33CED8C6-EAC0-44CD-BDA6-C1F65E2879AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiVoice.Synthesis", "MiVoice.Synthesis\MiVoice.Synthesis.csproj", "{E82436BB-8FC2-413F-9F81-B1D71F8858F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33CED8C6-EAC0-44CD-BDA6-C1F65E2879AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CED8C6-EAC0-44CD-BDA6-C1F65E2879AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CED8C6-EAC0-44CD-BDA6-C1F65E2879AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CED8C6-EAC0-44CD-BDA6-C1F65E2879AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82436BB-8FC2-413F-9F81-B1D71F8858F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82436BB-8FC2-413F-9F81-B1D71F8858F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82436BB-8FC2-413F-9F81-B1D71F8858F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82436BB-8FC2-413F-9F81-B1D71F8858F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
